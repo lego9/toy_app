@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ecbacaf-e7cb-4235-aacd-b8bc516ee9ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600680706211</updated>
-      <workItem from="1600680707335" duration="1525000" />
+      <workItem from="1600680707335" duration="4871000" />
     </task>
     <servers />
   </component>
